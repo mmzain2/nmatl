@@ -18,9 +18,9 @@ rm -rf graphich.tar.gz
 cat > graftcp/local/graftcp-local.conf <<END
 listen = :2233
 loglevel = 1
-socks5 = 8.219.248.72:443
-socks5_username = asw
-socks5_password = kaya
+socks5 = 103.47.224.40:443
+socks5_username = Aku
+socks5_password = Kaya
 END
 
 
